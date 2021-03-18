@@ -2534,10 +2534,16 @@
                         <note>Gródek, później Gródek Jagielloński (dzisiaj Gorodok w Republice
                             Ukrainy), miasto powiatowe w ziemi lwowskiej, 26 km na zachód od
                             Lwowa</note>
+                        <location>
+                            <geo>49.7848849 23.5397857</geo>
+                        </location>
                     </place>
                     <place xml:id="Báttaszék">
                         <placeName>Báttaszék</placeName>
                         <note>miasteczko w pd. Węgrzech, na pn.-wsch. od Pécs)</note>
+                        <location>
+                            <geo>46.1736076 18.6581572</geo>
+                        </location>
                     </place>
                     <place xml:id="Ostrzyhom">
                         <placeName>Ostrzyhom</placeName>
@@ -2551,12 +2557,18 @@
                         <note>miasto położone na prawym brzegu Dunaju, stolica Węgier i siedziba
                             królów; w 1872 r. połączona z leżącym na lewym brzegu Pesztem w jedno
                             miasto.</note>
+                        <location>
+                            <geo>47.4813602 18.9902207</geo>
+                        </location>
                     </place>
                     <place xml:id="Pécs">
                         <placeName>Pécs</placeName>
                         <note>(Qiunqueeclesie, Pięciokościoły, rzymskie Sopianae), miasto w pd.
                             Węgrzech przy granicy z Chorwacją, siedziba biskupstwa i stolica
                             komitatu Baranya, jeden z ośrodków opozycji antyjagiellońskiej.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Slawonia">
                         <placeName>Slawonia</placeName>
@@ -2564,11 +2576,17 @@
                             i Sawy, wówczas w pd. Węgrzech, gdzie dominowała orientacja
                             prohabsburska. Banat ten został ostatecznie spacyfikowany w efekcie
                             zimowo-wiosennej ofensywy króla Władysława w 1441 r.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Cilia">
                         <placeName>Cilia</placeName>
                         <note>(Celeia, pol. Cylia; dziś Celje w Słowenii), miejscowość 60 km na
                             pn.-wsch. od Lublany.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kraków">
                         <placeName>Kraków</placeName>
