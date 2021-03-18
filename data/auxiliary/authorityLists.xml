@@ -2002,6 +2002,9 @@
                             24 października. Miasto zostało zdobyte dopiero w 1461 r. (<title>Miasta
                                 polskie I</title>, s. 333; Biskup, <title>Trzynastoletnia</title>,
                             s. 404–408).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="BrześćKujawski">
                         <placeName>Brześć Kujawski</placeName>
@@ -2009,6 +2012,9 @@
                             książąt brzesko-kujawskich, w 1332 r. zdobyte przez Krzyżaków, odzyskane
                             na mocy traktatu kaliskiego w 1343 r., stolica województwa i siedziba
                             starostwa grodowego (Miasta polskie I, s. 313–314).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Piotrków">
                         <placeName>Piotrków</placeName>
@@ -2017,12 +2023,18 @@
                             Rusi na Pomorze przez Sandomierz i Łęczycę ze szlakami przez Kraków na
                             Węgry i z Warszawy przez Radomsko i Wieluń do Wrocławia (<title>Miasta
                                 polskie II</title>, s. 65–67).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Jędrzejów">
                         <placeName>Jędrzejów</placeName>
                         <note>miasto w powiecie ksiąskim wraz z klasztorem cystersów, 38 km na
                             pd.-zach. od Kielc, własność tamtejszego klasztoru (<title>Miasta
                                 polskie I</title>, s. 509–510).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Nowe">
                         <placeName>Nowe</placeName>
@@ -2035,12 +2047,18 @@
                             1465 r. Po pokoju toruńskim w 1466 r. Nowe, włączone do Królestwa
                             Polskiego, zostało siedzibą starostwa (<title>Miasta polskie I</title>,
                             s. 237).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kłodawa">
                         <placeName>Kłodawa</placeName>
                         <note>miasto król. w województwie łęczyckim, siedziba starostwa
                             niegrodowego, 20 km na pn.-wsch. od Koła (Miasta polskie II, s.
                             238–239).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Przedbórz">
                         <placeName>Przedbórz</placeName>
@@ -2049,6 +2067,9 @@
                             Radomia przez Skrzynno i Końskie do Wielkopolski, 40 km na pd.-wsch. od
                             Piotrkowa Trybunalskiego (<title>Miasta polskie I</title>, s.
                             530).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Miechów">
                         <placeName>Miechów</placeName>
@@ -2056,11 +2077,17 @@
                             własność zakonu kanoników regularnych Grobu Pańskiego (bożogrobców),
                             który miał tu swój klasztor (<title>Miasta polskie I</title>, s.
                             649–650).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Gniewkowo">
                         <placeName>Gniewkowo</placeName>
                         <note>miasto na Kujawach, w województwie inowrocławskim, 15 km na pd.-zach.
                             od Torunia (<title>Miasta polskie I</title>, s. 320).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Człuchów">
                         <placeName>Człuchów</placeName>
@@ -2069,11 +2096,17 @@
                             lutym 1454 r. zamek człuchowski został zajęty przez Gdańszczan, a
                             wkrótce tenuta człuchowska nadana została przez króla Mikołajowi
                             Szarlejskiemu (<title>Miasta polskie I</title>, s. 574–575).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Rogoźno">
                         <placeName>Rogoźno</placeName>
                         <note>miasto król. w powiecie poznańskim, nad rzeką Wełną, siedziba
                             kasztelanii i starostwa w tenucie Kretkowskich (<hi rend="i">SHGPozn.</hi> IV, s. 124).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Oborniki">
                         <placeName>Oborniki</placeName>
@@ -2082,6 +2115,9 @@
                             Skóry z Gaju kasztelana kaliskiego, zob. przypis 8 (<hi rend="i">SHGPozn.</hi> III, s. 375; A. Gąsiorowski, <title>Starostowie
                                 wielkopolskich miast królewskich w dobie jagiellońskiej</title>,
                             Warszawa–Poznań 1981, s. 53).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Krajna">
                         <placeName>Krajna</placeName>
@@ -2089,6 +2125,9 @@
                             województwa kaliskiego (P. Szafran, O<title>sadnictwo historycznej
                                 Krajny w XVI–XVIII w. (1511–1772)</title>, Gdańsk 1961, s.
                             26–30).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Grudziądz">
                         <placeName>Grudziądz</placeName>
@@ -2099,6 +2138,9 @@
                             starostów. Ostatecznie Grudziądz został przyłączony do Polski na mocy
                             pokoju toruńskiego w 1466 r. (<title>Miasta polskie I</title>, s.
                             322–323).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Olsztyn">
                         <placeName>Olsztyn</placeName>
@@ -2115,6 +2157,9 @@
                                 średniowieczu</title>, Kraków 2006, s. 153–155, 158–159; M.
                             Antoniewicz, <title>Zamki na Wyżynie Krakowsko-Częstochowskiej. Geneza —
                                 funkcje — konteksty</title>, Kielce 1998, s. 29–30).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Spisz">
                         <placeName>Spisz</placeName>
@@ -2125,6 +2170,9 @@
                             zastawiony Polsce przez cesarza Zygmunta Luksemburskiego i pozostawał w
                             jej granicach do 1768 r. Ze Spiszu importowano żelazo do wyrobu narzędzi
                             górniczych (Długosz, <title>Roboty</title>, s. 168).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Bieżanów">
                         <placeName>Bieżanów</placeName>
@@ -2134,6 +2182,9 @@
                             lasy i gaje w czterech miejscach: nad Wisłą, przy drodze bocheńskiej, ku
                             Śledziejowicom i ku Prokocimowi (<hi rend="i">SHGKr. I</hi>, s.
                             111–112).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Radziszów">
                         <placeName>Radziszów</placeName>
@@ -2141,6 +2192,9 @@
                             własność klasztoru benedyktynów w Tyńcu. Część ról należących do tej wsi
                             leżała na terenie Królestwa Polskiego, a część już w księstwie
                             zatorskim.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Skawina">
                         <placeName>Skawina</placeName>
@@ -2148,6 +2202,9 @@
                             od Krakowa, założone w 1364 r. przez Kazimierza Wielkiego. Od końca XIV
                             w. własność klasztoru benedyktynów w Tyńcu (<title>Miasta polskie
                                 I</title>, s. 664–665).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Oświęcim">
                         <placeName>Oświęcim</placeName>
@@ -2164,16 +2221,25 @@
                             krakowsko-oświęcimskie, a nawet okolice samego Krakowa (<title>Miasta
                                 polskie I</title>, s. 658–660; <hi rend="i">DHn.</hi>, lib. XII, s.
                             146).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Lubowla">
                         <placeName>Lubowla</placeName>
                         <note>(słow. Stará L’ubovňa), miasto i zamek na Spiszu, 27 km na pn.-wsch.
                             od Kieżmarku.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Bardiów">
                         <placeName>Bardiów</placeName>
                         <note>(słow. Bardejov), miasto w komitacie Szarysz, w pn. Węgrzech (dzisiaj
                             Słowacja), 33 km na pn. od Preszowa.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Krosno">
                         <placeName>Krosno</placeName>
@@ -2181,12 +2247,18 @@
                             przy szlaku handlowym na Ruś i na Węgry, 42 km na zach. od Sanoka
                                 (<title>Miasta polskie I</title>, s. 362–364; <title>SHGSan.
                                 II</title>, s. 71–96).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Lwów">
                         <placeName>Lwów</placeName>
                         <note>Ze względu na zapis Lwów (Leopolis, ale także Lambork, Lamburga),
                             stolica województwa ruskiego (lwowskiego) lub miasto Lwówek (Löwenberg,
                             Lamberg, Lemburg), dziś Lwówek Śląski na Dolnym Śląsku.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="NowySącz">
                         <placeName>Nowy Sącz</placeName>
@@ -2194,23 +2266,35 @@
                             Polski na Węgry, jedno z kilku największych miast małopolskich, ośrodek
                             powiatu i siedziba kasztelanii (<title>Miasta polskie I</title>, s.
                             654–656).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Raba">
                         <placeName>Raba</placeName>
                         <note>zwana też Cło, należąca do klasztoru miechowskiego karczma i komora
                             celna nad rzeką Rabą koło Chełmu, 8,5 km na zach. od Bochni
                                 (<title>SHGKr. I</title>, s. 415).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kłaj">
                         <placeName>Kłaj</placeName>
                         <note>wieś w powiecie szczyrzyckim, w parafii Niepołomice, 8,5 km na
                             pn.-zach. od Bochni, w części własność król., w części klasztoru
                             bożogrobców w Miechowie (<title>SHGKr. II</title>, s. 558–561).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Mikluszowice">
                         <placeName>Mikluszowice</placeName>
                         <note>wieś parafialna w powiecie szczyrzyckim, opodal Gawłówka, 12 km na
                             pn.- -wsch. od Bochni, własność Piotra Cikowskiego.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Gawłówek">
                         <placeName>Gawłówek</placeName>
@@ -2219,10 +2303,16 @@
                             8,5 km na pn. od Bochni. Początkowo własność szlachecka, później, przed
                             1434 r. król., zapewne oddawana przez króla w tenutę (<title>SHGKr.
                                 I</title>, s. 715).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Wieliczka">
                         <placeName>Wieliczka</placeName>
                         <note/>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Zator">
                         <placeName>Zator</placeName>
@@ -2230,45 +2320,72 @@
                             1445 stolica zależnego od Polski księstwa zatorskiego, które w 1494 r.
                             król Jan Olbracht kupił od księcia Janusza dla Korony Polskiej
                                 (<title>Miasta polskie I</title>, s. 681–682).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Chroberz">
                         <placeName>Chroberz</placeName>
                         <note>wieś i zamek Tęczyńskich nad rzeką Nidą, w powiecie wiślickim, 11 km
                             na pd. od Pińczowa.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kurozwęki">
                         <placeName>Kurozwęki</placeName>
                         <note>zamek i wieś w powiecie wiślickim, siedziba Kurozwęckich, 7 km na
                             wsch. od Szydłowa.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Łęczyca">
                         <placeName>Łęczyca</placeName>
                         <note>miasto i zamek 35 km na pn. od Łodzi, w okresie wczesnopiastowskim
                             ośrodek prowincji, następnie województwa (Miasta polskie II, s.
                             53–55).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kieżmark">
                         <placeName>Kieżmark</placeName>
                         <note>(słow. Kežmarok), jedno z głównych miast na Spiszu, na terenie Górnych
                             Węgier, 20 km na pn. od Popradu.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Košice">
                         <placeName>Koszyce</placeName>
                         <note>(słow. Košice), miasto nad Hornádem, na terenie Górnych Węgier.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kövesd">
                         <placeName>Kövesd</placeName>
                         <note>(dzisiaj Mezőkövesd), miasto na Węgrzech, 18 km na pd.-wsch. od
                             Egeru.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="WienerNeustadt">
                         <placeName>Wiener Neustadt</placeName>
                         <note>miasto w Dolnej Austrii, 47 km na pd. od Wiednia.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Altenburg">
                         <placeName>Altenburg</placeName>
                         <note>(węg. Ovár, dziś Mosonmagyaróvár), miasto i zamek w komitacie Moson,
                             na terenie Górnych Węgier, 35 km na pd.-wsch. od Bratysławy.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Győr">
                         <placeName>Győr</placeName>
@@ -2277,16 +2394,25 @@
                             tegoż komitatu 1453–1458, zm. 1465 (Engel I, s. 71, 134; II, s. 208;
                                 <title>Hierarchia catholica medii et recentioris aevi</title>, ed.
                             C. Eubel, editio altra, t. II, Monasteri 1914, s. 167).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Schottwien">
                         <placeName>Schottwien</placeName>
                         <note>wieś w Dolnej Austrii, przy granicy ze Styrią, pod przełęczą
                             Semmering, 35 km na pd.-zach. od Wiener Neustadt.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Ruda">
                         <placeName>Ruda koło Krakowca</placeName>
                         <note>(dzisiaj Ruda Krakowiecka w Republice Ukrainy), 15 km na pn.-zach. od
                             Jaworowa.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Paszyna">
                         <placeName>Paszyna lub Poszyna</placeName>
@@ -2298,11 +2424,17 @@
                                 starostwa niepołomickiego w średniowieczu</title> (cz. 1), Teki
                             Krak. 8, 1998, s. 127). Wydawca listu błędnie objaśnił to miejsce jako
                             wieś Paszczyna w powiecie pilzneńskim. </note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Sienno">
                         <placeName>Sienno</placeName>
                         <note>wieś, a od 1441 r. miasto w powiecie radomskim, 31 km na pn. od
                             Opatowa (<title>Miasta polskie</title> I, s. 539).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Solec">
                         <placeName>Solec</placeName>
@@ -2311,11 +2443,17 @@
                             Władysław Jagiełło zezwolił wykupić za 1200 grz. z zastawu od Zaklików z
                             Międzygórza Janowi Głowaczowi (<hi rend="i">ZDM</hi> VII, nr 2096).
                             Odtąd był on w tenucie Oleśnickich.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Stupnica">
                         <placeName>Stupnica</placeName>
                         <note>(dzisiaj w Republice Ukrainy), miejscowość 23 km na wsch. od Starego
                             Sambora.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Sól">
                         <placeName>Sól</placeName>
@@ -2324,27 +2462,42 @@
                             z przedmieściem rozwinęło się wokół źródła solnego i stało się ośrodkiem
                             żupy tzw. solskiej, która wchodziła w skład ekonomii żupnej przemyskiej
                             (zob. Bukowski, <title>Objęcie w dzierżawę</title>, s. 111).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Czyżów">
                         <placeName>Czyżów</placeName>
                         <note>wieś parafialna i zamek w powiecie sandomierskim, 5 km na pn. od
                             Zawichostu, siedziba rodziny Półkoziców Czyżowskich.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="StarySambor">
                         <placeName>Stary Sambor</placeName>
                         <note>(dzisiaj Staryj Sambir w Republice Ukrainy), miasto w ziemi
                             przemyskiej, ośrodek starostwa, wówczas w tenucie Odrowążów Sprowskich,
                             44 km na pd.-wsch. od Przemyśla.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Mogiła">
                         <placeName>Mogiła</placeName>
                         <note>wieś i klasztor cystersów (przeniesiony tutaj w 1226 r. z Kacic przez
                             biskupa krak. Iwona Odrowąża); w 1951 r. włączona do Krakowa, 9 km na
                             wsch. od centrum miasta.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Bochnia">
                         <placeName>Bochnia</placeName>
                         <note>miasto</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Brzeg">
                         <placeName>Brzeg</placeName>
@@ -2352,6 +2505,9 @@
                             księstwa Piastów brzeskich, które w 1329 r. zostało shołdowane Czechom.
                             Ośrodek handlowy na szlaku tranzytowym ołowiu i miedzi (<title>Miasta
                                 polskie</title> II, s. 159–161). </note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Pilzno">
                         <placeName>Pilzno</placeName>
@@ -2359,6 +2515,9 @@
                             pd.-zach. od Dębicy, siedziba powiatu i ważny ośrodek handlowy na
                             skrzyżowaniu szlaków na pd. na Węgry i na wsch. na Ruś (<title>Miasta
                                 polskie</title> II, s. 374–375).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="PuszczaNiepołomicka">
                         <placeName>Puszcza Niepołomicka</placeName>
@@ -2366,6 +2525,9 @@
                             nazwy wsi król. Niepołomice), kompleks lasów król. w zach. części
                             Kotliny Sandomierskiej. Ich zachowany do dzisiaj fragment o powierzchni
                             ok. 120 km2 rozciąga się od Niepołomic po dolną Rabę.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Niepołomice">
                         <placeName>Niepołomice</placeName>
@@ -2378,6 +2540,9 @@
                             wyłączeniu z wielkorządów krak., Niepołomice były siedzibą starostwa
                             niegrodowego oddawanego w tenutę (<title>Miasta polskie</title> I, s.
                             653–654).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="UścieSolne">
                         <placeName>Uście Solne</placeName>
@@ -2388,6 +2553,9 @@
                             początku XV w. z wielkorządów krak. Uście stało się ośrodkiem starostwa
                             niegrodowego, które oddawano w tenutę (<title>Miasta polskie</title> I,
                             s. 674).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Wiślica">
                         <placeName>Wiślica</placeName>
@@ -2397,6 +2565,9 @@
                             od XV w. siedziba starostwa niegrodowego. Miasto od XIV w. posiadało
                             przywilej składu i cła od soli (<title>Miasta polskie</title> I, s.
                             552).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Nieszawa">
                         <placeName>Nieszawa</placeName>
@@ -2408,17 +2579,26 @@
                             górę Wisły na Kujawy brzeskie, na teren wsi Roskydalino, gdzie założono
                             Nową Nieszawę, zwaną też Nowym Dybowem (<title>Historia Torunia
                                 1</title>, s. 250, 260; 2, cz. 1, s. 14, 36, 38, 43–44).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Rybnik">
                         <placeName>Rybnik</placeName>
                         <note>miasto na Śląsku, wówczas stolica księstwa rybnicko-karniowskiego, 22
                             km na wsch. od Raciborza.</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Płock">
                         <placeName>Płock</placeName>
                         <note> zamek i miasto na Mazowszu, na prawym brzegu Wisły, stolica księstwa
                             płockiego 1374–1495 (<title>Miasta polskie II</title>, s.
                             498–500).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Bydgoszcz">
                         <placeName>Bydgoszcz</placeName>
@@ -2430,6 +2610,9 @@
                             Jagiełłę. Po wojnie trzynastoletniej (1454–1466) nastąpił intensywny
                             rozwój gospodarczy miasta (<title>Miasta polskie I</title>, s.
                             307–311).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Gdańsk">
                         <placeName>Gdańsk</placeName>
@@ -2439,6 +2622,9 @@
                             członków antykrzyżackiego Związku Pruskiego. W 1454 r. aktem
                             inkorporacji króla Kazimierza Jagiellończyka przyłączone do Królestwa
                             Polskiego (<title>Miasta polskie I</title>, s. 363–373).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Toruń">
                         <placeName>Toruń</placeName>
@@ -2446,6 +2632,9 @@
                             przez Krzyżaków, członek Hanzy, od 1440 r. na czele Związku Pruskiego. W
                             1454 r. aktem inkorporacji przyłączone do Królestwa Polskiego
                                 (<title>Miasta polskie I</title>, s. 345–349).</note>
+                        <location>
+                            <geo/>
+                        </location>
                     </place>
                     <place xml:id="Kuchary">
                         <placeName>Kuchary</placeName>
@@ -2542,7 +2731,7 @@
                         <placeName>Báttaszék</placeName>
                         <note>miasteczko w pd. Węgrzech, na pn.-wsch. od Pécs)</note>
                         <location>
-                            <geo>46.1736076 18.6581572</geo>
+                            <geo>46.139679 18.6807524</geo>
                         </location>
                     </place>
                     <place xml:id="Ostrzyhom">
@@ -2551,6 +2740,9 @@
                             strategicznym znaczeniu, ok. 35 km na pn.-zach. od stolicy Węgier Budy,
                             wg tradycji miejsce koronacji pierwszego króla Węgier Stefana, siedziba
                             jednego z dwóch arcybiskupstw.</note>
+                        <location>
+                            <geo>47.757734 18.6989311</geo>
+                        </location>
                     </place>
                     <place xml:id="Buda">
                         <placeName>Buda</placeName>
@@ -2567,7 +2759,7 @@
                             Węgrzech przy granicy z Chorwacją, siedziba biskupstwa i stolica
                             komitatu Baranya, jeden z ośrodków opozycji antyjagiellońskiej.</note>
                         <location>
-                            <geo/>
+                            <geo>46.0778307 18.1805419</geo>
                         </location>
                     </place>
                     <place xml:id="Slawonia">
@@ -2577,7 +2769,7 @@
                             prohabsburska. Banat ten został ostatecznie spacyfikowany w efekcie
                             zimowo-wiosennej ofensywy króla Władysława w 1441 r.</note>
                         <location>
-                            <geo/>
+                            <geo>45.5514407 18.6388365</geo>
                         </location>
                     </place>
                     <place xml:id="Cilia">
@@ -2585,7 +2777,7 @@
                         <note>(Celeia, pol. Cylia; dziś Celje w Słowenii), miejscowość 60 km na
                             pn.-wsch. od Lublany.</note>
                         <location>
-                            <geo/>
+                            <geo>46.2358863 15.2195842</geo>
                         </location>
                     </place>
                     <place xml:id="Kraków">
