@@ -2451,6 +2451,9 @@
                         <placeName>Kuchary</placeName>
                         <note>wieś król. przynależna do dóbr Koszyce, 7 km na pn.-wsch. od Brzeska
                                 (<hi rend="i">SHGKr.</hi> III, s. 333).</note>
+                        <location>
+                            <geo>50.1597433 20.3848311</geo>
+                        </location>
                     </place>
                     <place xml:id="Koszyce">
                         <placeName>Koszyce</placeName>
@@ -2461,24 +2464,34 @@
                             Na tej tenucie Jadwiga miała najpewniej zapis oprawy posagu i wiana
                             dokonany przez pierwszego męża (<hi rend="i">SHGKr.</hi> III, s. 26,
                             333).</note>
+                        <location>
+                            <geo>50.1552506 20.5596149</geo>
+                        </location>
                     </place>
                     <place xml:id="Rakowice">
                         <placeName>Rakowice</placeName>
                         <note>wieś król. w parafii Św. Mikołaja w Krakowie, w 1928 r. włączona do
                             miasta.</note>
+                        <location>
+                            <geo>50.0797685 19.9670663</geo>
+                        </location>
                     </place>
                     <place xml:id="Przemyśl">
                         <placeName>Przemyśl</placeName>
                         <note>miasto król. i zamek nad Sanem w województwie ruskim, stolica ziemi i
                             powiatu (<title>Miasta polskie</title> II, s. 376–379).</note>
-                            <location><geo>49.7836031 22.7490375</geo></location>
+                            <location>
+                            <geo>49.7836031 22.7490375</geo>
+                        </location>
                     </place>
                     <place xml:id="Sandomierz">
                         <placeName>Sandomierz</placeName>
                         <note>miasto na krawędzi Wyżyny Sandomierskiej, na lewym brzegu Wisły w
                             pobliżu ujścia Sanu, 15 km na pn.-wsch. od Tarnobrzega, wówczas stolica
                             ziemi i województwa (<title>Miasta polskie</title> I, s. 536–538)</note>
-                            <location><geo>50.6781642 21.7105923</geo></location>
+                            <location>
+                            <geo>50.6781642 21.7105923</geo>
+                        </location>
 
                     </place>
                     <place xml:id="Jasienica">
@@ -2493,7 +2506,9 @@
                             znalazła się w rękach starostów samborskich. W 1570 r. włączona została
                             do żupy drohobyckiej (Rutkowski, <title>Żupy ruskie</title>, s. 120;
                             Bukowski, <title>Objęcie w dzierżawę</title>, s. 111).</note>
-                            <location><geo>49.3357056 23.3417619</geo></location>
+                            <location>
+                            <geo>49.3357056 23.3417619</geo>
+                        </location>
                     </place>
                     <place xml:id="Baszowa">
                         <placeName>Baszowa</placeName>
@@ -2501,14 +2516,18 @@
                             12 km na zach. od Drohobycza, wraz z Jasienicą stanowiła część żupy
                             przemyskiej (Bukowski, <title>Objęcie w dzierżawę</title>, s.
                             111).</note>
-                            <location><geo>49.3495775 23.3423203</geo></location>
+                            <location>
+                            <geo>49.3495775 23.3423203</geo>
+                        </location>
                     </place>
                     <place xml:id="Mościska">
                         <placeName>Mościska</placeName>
                         <note>(dzisiaj Mostys’ka w Republice Ukrainy), miasto w ziemi
                             przemyskiej, 27 km na wsch. od Przemyśla, miejsce obrad wielu
                             sejmików partykularnych ruskich.</note>
-                            <location><geo>49.8001441 23.1146331</geo></location>
+                            <location>
+                            <geo>49.8001441 23.1146331</geo>
+                        </location>
                     </place>
                     <place xml:id="Gródek">
                         <placeName>Gródek</placeName>
@@ -2554,6 +2573,9 @@
                     <place xml:id="Kraków">
                         <placeName>Kraków</placeName>
                         <note/>
+                        <location>
+                            <geo>50.0468548 19.9348336</geo>
+                        </location>
                     </place>
                 </listPlace>
             </settingDesc>
