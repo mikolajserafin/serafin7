@@ -2248,6 +2248,7 @@
                                 (<title>Miasta polskie I</title>, s. 362–364; <title>SHGSan.
                                 II</title>, s. 71–96).</note>
                         <location>
+                            <geo>49.6821835 21.7494539</geo>
                             <geo/>
                         </location>
                     </place>
@@ -2257,7 +2258,7 @@
                             stolica województwa ruskiego (lwowskiego) lub miasto Lwówek (Löwenberg,
                             Lamberg, Lemburg), dziś Lwówek Śląski na Dolnym Śląsku.</note>
                         <location>
-                            <geo/>
+                            <geo>49.9216887 23.8564188</geo>
                         </location>
                     </place>
                     <place xml:id="NowySącz">
@@ -2267,7 +2268,7 @@
                             powiatu i siedziba kasztelanii (<title>Miasta polskie I</title>, s.
                             654–656).</note>
                         <location>
-                            <geo/>
+                            <geo>49.6072707 20.6345327</geo>
                         </location>
                     </place>
                     <place xml:id="Raba">
@@ -2276,7 +2277,7 @@
                             celna nad rzeką Rabą koło Chełmu, 8,5 km na zach. od Bochni
                                 (<title>SHGKr. I</title>, s. 415).</note>
                         <location>
-                            <geo/>
+                            <geo>50.0493416 20.458615</geo>
                         </location>
                     </place>
                     <place xml:id="Kłaj">
@@ -2285,7 +2286,7 @@
                             pn.-zach. od Bochni, w części własność król., w części klasztoru
                             bożogrobców w Miechowie (<title>SHGKr. II</title>, s. 558–561).</note>
                         <location>
-                            <geo/>
+                            <geo>49.9914326 20.1781094</geo>
                         </location>
                     </place>
                     <place xml:id="Mikluszowice">
@@ -2293,7 +2294,7 @@
                         <note>wieś parafialna w powiecie szczyrzyckim, opodal Gawłówka, 12 km na
                             pn.- -wsch. od Bochni, własność Piotra Cikowskiego.</note>
                         <location>
-                            <geo/>
+                            <geo>50.0699084 20.4431988</geo>
                         </location>
                     </place>
                     <place xml:id="Gawłówek">
@@ -2304,14 +2305,14 @@
                             1434 r. król., zapewne oddawana przez króla w tenutę (<title>SHGKr.
                                 I</title>, s. 715).</note>
                         <location>
-                            <geo/>
+                            <geo>50.0521929 20.3801277</geo>
                         </location>
                     </place>
                     <place xml:id="Wieliczka">
                         <placeName>Wieliczka</placeName>
                         <note/>
                         <location>
-                            <geo/>
+                            <geo>49.9875843 20.0286001</geo>
                         </location>
                     </place>
                     <place xml:id="Zator">
@@ -2321,7 +2322,7 @@
                             król Jan Olbracht kupił od księcia Janusza dla Korony Polskiej
                                 (<title>Miasta polskie I</title>, s. 681–682).</note>
                         <location>
-                            <geo/>
+                            <geo>49.9860803 19.3508071</geo>
                         </location>
                     </place>
                     <place xml:id="Chroberz">
@@ -2329,7 +2330,7 @@
                         <note>wieś i zamek Tęczyńskich nad rzeką Nidą, w powiecie wiślickim, 11 km
                             na pd. od Pińczowa.</note>
                         <location>
-                            <geo/>
+                            <geo>50.4176243 20.5132528</geo>
                         </location>
                     </place>
                     <place xml:id="Kurozwęki">
@@ -2337,7 +2338,7 @@
                         <note>zamek i wieś w powiecie wiślickim, siedziba Kurozwęckich, 7 km na
                             wsch. od Szydłowa.</note>
                         <location>
-                            <geo/>
+                            <geo>50.5942111 21.095239</geo>
                         </location>
                     </place>
                     <place xml:id="Łęczyca">
@@ -2346,7 +2347,7 @@
                             ośrodek prowincji, następnie województwa (Miasta polskie II, s.
                             53–55).</note>
                         <location>
-                            <geo/>
+                            <geo>51.9091022 19.0011038</geo>
                         </location>
                     </place>
                     <place xml:id="Kieżmark">
@@ -2354,14 +2355,14 @@
                         <note>(słow. Kežmarok), jedno z głównych miast na Spiszu, na terenie Górnych
                             Węgier, 20 km na pn. od Popradu.</note>
                         <location>
-                            <geo/>
+                            <geo>49.1457755 20.4056626</geo>
                         </location>
                     </place>
                     <place xml:id="Košice">
                         <placeName>Koszyce</placeName>
                         <note>(słow. Košice), miasto nad Hornádem, na terenie Górnych Węgier.</note>
                         <location>
-                            <geo/>
+                            <geo>48.6975566 21.0991104</geo>
                         </location>
                     </place>
                     <place xml:id="Kövesd">
@@ -2369,14 +2370,14 @@
                         <note>(dzisiaj Mezőkövesd), miasto na Węgrzech, 18 km na pd.-wsch. od
                             Egeru.</note>
                         <location>
-                            <geo/>
+                            <geo>47.7999859 20.5139607</geo>
                         </location>
                     </place>
                     <place xml:id="WienerNeustadt">
                         <placeName>Wiener Neustadt</placeName>
                         <note>miasto w Dolnej Austrii, 47 km na pd. od Wiednia.</note>
                         <location>
-                            <geo/>
+                            <geo>47.807904 16.1458355</geo>
                         </location>
                     </place>
                     <place xml:id="Altenburg">
@@ -2384,7 +2385,7 @@
                         <note>(węg. Ovár, dziś Mosonmagyaróvár), miasto i zamek w komitacie Moson,
                             na terenie Górnych Węgier, 35 km na pd.-wsch. od Bratysławy.</note>
                         <location>
-                            <geo/>
+                            <geo>47.8721801 17.1571374</geo>
                         </location>
                     </place>
                     <place xml:id="Győr">
@@ -2395,7 +2396,7 @@
                                 <title>Hierarchia catholica medii et recentioris aevi</title>, ed.
                             C. Eubel, editio altra, t. II, Monasteri 1914, s. 167).</note>
                         <location>
-                            <geo/>
+                            <geo>47.7381563 17.4582424</geo>
                         </location>
                     </place>
                     <place xml:id="Schottwien">
@@ -2403,7 +2404,7 @@
                         <note>wieś w Dolnej Austrii, przy granicy ze Styrią, pod przełęczą
                             Semmering, 35 km na pd.-zach. od Wiener Neustadt.</note>
                         <location>
-                            <geo/>
+                            <geo>47.6533255 15.8621206</geo>
                         </location>
                     </place>
                     <place xml:id="Ruda">
@@ -2411,7 +2412,7 @@
                         <note>(dzisiaj Ruda Krakowiecka w Republice Ukrainy), 15 km na pn.-zach. od
                             Jaworowa.</note>
                         <location>
-                            <geo/>
+                            <geo>49.9734486 23.1817773</geo>
                         </location>
                     </place>
                     <place xml:id="Paszyna">
@@ -2425,7 +2426,7 @@
                             Krak. 8, 1998, s. 127). Wydawca listu błędnie objaśnił to miejsce jako
                             wieś Paszczyna w powiecie pilzneńskim. </note>
                         <location>
-                            <geo/>
+                            <geo>50.0487714 20.3094734</geo>
                         </location>
                     </place>
                     <place xml:id="Sienno">
@@ -2433,7 +2434,7 @@
                         <note>wieś, a od 1441 r. miasto w powiecie radomskim, 31 km na pn. od
                             Opatowa (<title>Miasta polskie</title> I, s. 539).</note>
                         <location>
-                            <geo/>
+                            <geo>51.0921632 21.4661727</geo>
                         </location>
                     </place>
                     <place xml:id="Solec">
@@ -2444,7 +2445,7 @@
                             Międzygórza Janowi Głowaczowi (<hi rend="i">ZDM</hi> VII, nr 2096).
                             Odtąd był on w tenucie Oleśnickich.</note>
                         <location>
-                            <geo/>
+                            <geo>51.1352751 21.7589537</geo>
                         </location>
                     </place>
                     <place xml:id="Stupnica">
@@ -2452,7 +2453,7 @@
                         <note>(dzisiaj w Republice Ukrainy), miejscowość 23 km na wsch. od Starego
                             Sambora.</note>
                         <location>
-                            <geo/>
+                            <geo>49.4315501 23.3049695</geo>
                         </location>
                     </place>
                     <place xml:id="Sól">
@@ -2463,7 +2464,7 @@
                             żupy tzw. solskiej, która wchodziła w skład ekonomii żupnej przemyskiej
                             (zob. Bukowski, <title>Objęcie w dzierżawę</title>, s. 111).</note>
                         <location>
-                            <geo/>
+                            <geo>49.4893154 22.9610627</geo>
                         </location>
                     </place>
                     <place xml:id="Czyżów">
@@ -2471,7 +2472,7 @@
                         <note>wieś parafialna i zamek w powiecie sandomierskim, 5 km na pn. od
                             Zawichostu, siedziba rodziny Półkoziców Czyżowskich.</note>
                         <location>
-                            <geo/>
+                            <geo>50.8217327 21.7741759</geo>
                         </location>
                     </place>
                     <place xml:id="StarySambor">
@@ -2480,7 +2481,7 @@
                             przemyskiej, ośrodek starostwa, wówczas w tenucie Odrowążów Sprowskich,
                             44 km na pd.-wsch. od Przemyśla.</note>
                         <location>
-                            <geo/>
+                            <geo>49.4406805 23.0041945</geo>
                         </location>
                     </place>
                     <place xml:id="Mogiła">
@@ -2489,14 +2490,14 @@
                             biskupa krak. Iwona Odrowąża); w 1951 r. włączona do Krakowa, 9 km na
                             wsch. od centrum miasta.</note>
                         <location>
-                            <geo/>
+                            <geo>50.0605644 20.0432036</geo>
                         </location>
                     </place>
                     <place xml:id="Bochnia">
                         <placeName>Bochnia</placeName>
                         <note>miasto</note>
                         <location>
-                            <geo/>
+                            <geo>49.9697015 20.4181286</geo>
                         </location>
                     </place>
                     <place xml:id="Brzeg">
@@ -2506,7 +2507,7 @@
                             Ośrodek handlowy na szlaku tranzytowym ołowiu i miedzi (<title>Miasta
                                 polskie</title> II, s. 159–161). </note>
                         <location>
-                            <geo/>
+                            <geo>50.8586326 17.4609154</geo>
                         </location>
                     </place>
                     <place xml:id="Pilzno">
@@ -2516,7 +2517,7 @@
                             skrzyżowaniu szlaków na pd. na Węgry i na wsch. na Ruś (<title>Miasta
                                 polskie</title> II, s. 374–375).</note>
                         <location>
-                            <geo/>
+                            <geo>49.9602629 21.2946264</geo>
                         </location>
                     </place>
                     <place xml:id="PuszczaNiepołomicka">
@@ -2526,7 +2527,7 @@
                             Kotliny Sandomierskiej. Ich zachowany do dzisiaj fragment o powierzchni
                             ok. 120 km2 rozciąga się od Niepołomic po dolną Rabę.</note>
                         <location>
-                            <geo/>
+                            <geo>50.0296517 20.2927605</geo>
                         </location>
                     </place>
                     <place xml:id="Niepołomice">
@@ -2541,7 +2542,7 @@
                             niegrodowego oddawanego w tenutę (<title>Miasta polskie</title> I, s.
                             653–654).</note>
                         <location>
-                            <geo/>
+                            <geo>50.0340973 20.1728984</geo>
                         </location>
                     </place>
                     <place xml:id="UścieSolne">
@@ -2554,7 +2555,7 @@
                             niegrodowego, które oddawano w tenutę (<title>Miasta polskie</title> I,
                             s. 674).</note>
                         <location>
-                            <geo/>
+                            <geo>50.1062122 20.4844139</geo>
                         </location>
                     </place>
                     <place xml:id="Wiślica">
@@ -2566,7 +2567,7 @@
                             przywilej składu i cła od soli (<title>Miasta polskie</title> I, s.
                             552).</note>
                         <location>
-                            <geo/>
+                            <geo>50.3652263 20.6506026</geo>
                         </location>
                     </place>
                     <place xml:id="Nieszawa">
@@ -2580,7 +2581,7 @@
                             Nową Nieszawę, zwaną też Nowym Dybowem (<title>Historia Torunia
                                 1</title>, s. 250, 260; 2, cz. 1, s. 14, 36, 38, 43–44).</note>
                         <location>
-                            <geo/>
+                            <geo>52.8308088 18.8711291</geo>
                         </location>
                     </place>
                     <place xml:id="Rybnik">
@@ -2588,6 +2589,7 @@
                         <note>miasto na Śląsku, wówczas stolica księstwa rybnicko-karniowskiego, 22
                             km na wsch. od Raciborza.</note>
                         <location>
+                            <geo>50.0961833 18.5247403</geo>
                             <geo/>
                         </location>
                     </place>
@@ -2597,7 +2599,7 @@
                             płockiego 1374–1495 (<title>Miasta polskie II</title>, s.
                             498–500).</note>
                         <location>
-                            <geo/>
+                            <geo>52.5278618 19.6825145</geo>
                         </location>
                     </place>
                     <place xml:id="Bydgoszcz">
@@ -2611,6 +2613,7 @@
                             rozwój gospodarczy miasta (<title>Miasta polskie I</title>, s.
                             307–311).</note>
                         <location>
+                            <geo>53.1257696 17.9681431</geo>
                             <geo/>
                         </location>
                     </place>
@@ -2623,6 +2626,7 @@
                             inkorporacji króla Kazimierza Jagiellończyka przyłączone do Królestwa
                             Polskiego (<title>Miasta polskie I</title>, s. 363–373).</note>
                         <location>
+                            <geo>54.3522249 18.6350546</geo>
                             <geo/>
                         </location>
                     </place>
@@ -2633,6 +2637,7 @@
                             1454 r. aktem inkorporacji przyłączone do Królestwa Polskiego
                                 (<title>Miasta polskie I</title>, s. 345–349).</note>
                         <location>
+                            <geo>53.0112548 18.5654983</geo>
                             <geo/>
                         </location>
                     </place>
@@ -2705,7 +2710,7 @@
                             12 km na zach. od Drohobycza, wraz z Jasienicą stanowiła część żupy
                             przemyskiej (Bukowski, <title>Objęcie w dzierżawę</title>, s.
                             111).</note>
-                            <location>
+                        <location>
                             <geo>49.3495775 23.3423203</geo>
                         </location>
                     </place>
