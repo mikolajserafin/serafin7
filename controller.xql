@@ -44,7 +44,7 @@ else if ($exist:path eq '/api.html') then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <forward url="{$exist:controller}/templates/api.html"/>
     </dispatch>
-
+    
 (: static resources from the resources, transform, templates, odd or modules subirectories are directly returned :)
 else if (matches($exist:path, "^.*/(resources|transform|templates)/.*$")
     or matches($exist:path, "^.*/odd/.*\.css$")
@@ -59,7 +59,6 @@ else if (matches($exist:path, "^.*/(resources|transform|templates)/.*$")
                 else if (contains($exist:path, "/resources/fonts/")) then
                     <set-header name="Cache-Control" value="max-age=31536000"/>
                 else (
-                    <set-header name="Cache-Control" value="max-age=31536000"/>,
                     <set-header name="Access-Control-Allow-Origin" value="{$allowOrigin}"/>,
                     if ($allowOrigin = "*") then () else <set-header name="Access-Control-Allow-Credentials" value="true"/>
                 )
@@ -70,14 +69,18 @@ else if (matches($exist:path, "^.*/(resources|transform|templates)/.*$")
 (: other images are resolved against the data collection and also returned directly :)
 else if (matches($exist:resource, "\.(png|jpg|jpeg|gif|tif|tiff|txt|mei)$", "s")) then
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
-        <forward url="{$exist:controller}/data/{$exist:path}">
-            <set-header name="Cache-Control" value="max-age=31536000"/>
-        </forward>
+        <forward url="{$exist:controller}/data/{$exist:path}"/>
     </dispatch>
 
 (: all other requests are passed on the Open API router :)
 else
-    let $main := if (matches($exist:path, "^/api/(?:odd|lint)")) then "api-odd.xql" else "api.xql"
+    let $main :=
+        if (matches($exist:path, "^/+api/+(?:odd|lint)")) then 
+            "api-odd.xql" 
+        else if (matches($exist:path, "/+tex$") or matches($exist:path, "/+api/+apps/+generate$")) then
+            "api-dba.xql"
+        else 
+            "api.xql"
     return
         <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
             <forward url="{$exist:controller}/modules/lib/{$main}">

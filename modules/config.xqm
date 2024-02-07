@@ -10,7 +10,7 @@ import module namespace http="http://expath.org/ns/http-client" at "java:org.exi
 import module namespace nav="http://www.tei-c.org/tei-simple/navigation" at "navigation.xql";
 import module namespace tpu="http://www.tei-c.org/tei-publisher/util" at "lib/util.xql";
 
-declare namespace templates="http://exist-db.org/xquery/templates";
+import module namespace templates="http://exist-db.org/xquery/html-templating";
 
 declare namespace repo="http://exist-db.org/xquery/repo";
 declare namespace expath="http://expath.org/ns/pkg";
@@ -26,13 +26,14 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
  : If a version is given, the components will be loaded from a public CDN.
  : This is recommended unless you develop your own components.
  :)
-declare variable $config:webcomponents :="1.17.4";
+declare variable $config:webcomponents := "2.15.3";
 
 (:~
  : CDN URL to use for loading webcomponents. Could be changed if you created your
  : own library extending pb-components and published it to a CDN.
  :)
-declare variable $config:webcomponents-cdn := "https://unpkg.com/@teipublisher/pb-components";
+(: declare variable $config:webcomponents-cdn := "https://unpkg.com/@teipublisher/pb-components"; :)
+declare variable $config:webcomponents-cdn := "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components";
 
 (:~~
  : A list of regular expressions to check which external hosts are
@@ -293,11 +294,33 @@ declare variable $config:app-root :=
  : The context path to use for links within the application, e.g. menus.
  : The default should work when running on top of a standard eXist installation,
  : but may need to be changed if the app is behind a proxy.
+ :
+ : The context path is determined as follows:
+ :
+ : 1. if a system property `teipublisher.context-path` is set:
+ :  a. with value 'auto': determine context path by looking at the incoming request. This will
+ :     usually resolve to e.g. "/exist/apps/tei-publisher/".
+ :  b. otherwise use the value of the property
+ : 2. if an HTTP header X-Forwarded-Host is set, assume that eXist is running behind a proxy
+ :    and the app should be mapped to the root of the website (i.e. without /exist/apps/...)
+ : 3. otherwise determine path from request as in 1a.
  :)
 declare variable $config:context-path :=
-   request:get-context-path() || substring-after($config:app-root, "/db")
-    (: "" :)
+            request:get-context-path() || substring-after($config:app-root, "/db")
+
+    (: let $prop := util:system-property("teipublisher.context-path")
+    return
+        if (exists($prop)) then
+            if ($prop = "auto") then
+                request:get-context-path() || substring-after($config:app-root, "/db") 
+            else
+                $prop
+        else if (exists(request:get-header("X-Forwarded-Host")))
+            then ""
+        else
+            request:get-context-path() || substring-after($config:app-root, "/db") :)
 ;
+
 
 (:~
  : The root of the collection hierarchy containing data.
@@ -317,6 +340,36 @@ declare variable $config:data-default := $config:data-root || "/letters";
 declare variable $config:data-exclude :=
     collection($config:data-root || "/auxiliary")/tei:TEI
 ;
+
+
+(:~
+ : The root of the collection hierarchy containing registers data.
+ :)
+declare variable $config:register-root := $config:data-root || "/registers";
+declare variable $config:register-forms := $config:data-root || "/registers/templates";
+
+declare variable $config:register-map := map {
+    "person": map {
+        "id": "pb-persons",
+        "default": "person-default",
+        "prefix": "person-"
+    },
+    "place": map {
+        "id": "pb-places",
+        "default": "place-default",
+        "prefix": "place-"
+    },
+    "organization": map {
+        "id": "pb-organizations",
+        "default": "organization-default",
+        "prefix": "org-"
+    },
+    "term": map {
+        "id": "pb-keywords",
+        "default": "term-default",
+        "prefix": "category-"
+    }
+};
 
 (:~
  : The main ODD to be used by default
