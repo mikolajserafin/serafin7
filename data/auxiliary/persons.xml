@@ -24,16 +24,22 @@
             <person xml:id="MS">
                 <persName type="main">Mikołaj Serafin</persName>
                 <persName type="sort">Serafin, Mikołaj</persName>
-                <note type="bio">foo bar</note>
+                <note type="bio">
+
+                    Mieszczanin krakowski, dzierżawca salin krakowskich i ruskich, żupnik krakowski, miecznik królewski. 
+                    Urodzony w Wieliczce, pieczętował się herbem Nieczuja, brat Jakuba Zawrzykraja z Dąbrówki i spokrewniony z Mikołajem Zawrzykrajem, rajcą wielickim. 
+                    Był pasowanym rycerzem. Krakowskie prawo miejskie przyjął w 1435 roku. Występował już wtedy z tytułem żupnika, dzierżył wielickie bachmistrzostwo. 
+                    W 1436 roku zasiadł w radzie miejskiej, gdzie był odnotowywany do roku 1451 włącznie. Jako rajca urzędujący pełnił w przypadającej na niego kolejności funkcję burmistrza. 
+                    W 1438 roku wraz z innymi rajcami został pomówiony o wprowadzanie do obiegu fałszywych monet dla własnego zysku kosztem mieszczan; ledwo uniknął śmierci z rąk wzburzonego tłumu. 
+                    Z pożyczonych pieniędzy Mikołaj wybudował w Wieliczce szyb nazwany,,Serafin”, wprowadził kierat konny jako wyciąg kopalniany. W 1440 roku był już miecznikiem królewskim, 
+                    często występował u boku Władysława Warneńczyka. Prowadził intensywny handel solą, mimo to miał ciągłe procesy z wierzycielami o długi. Był właścicielem między innymi Zebrzydowic i Kobierzyna, 
+                    posiadał młyny na Prądniku, domy w Krakowie i staw w Kazimierzu. Był żonaty z Urszulą Grazerówną. Zmarł 4 listopada 1459 roku, pozostawiając syna Piotra, kanonika krakowskiego i prepozyta sądeckiego, oraz córkę Magdalenę, wydaną za Stanisława Ligenzę z Borku.
+                </note>
                 <gender value="M">male</gender>
                 <death>
                     <date when="1459-11-04"/>
                 </death>
                 <persName type="variant">Mikołaj Serafin z Barwałdu</persName>
-                <persName type="variant">Serafin, Mikołaj</persName>
-                <persName type="variant">Serafin Mikolaj z Barwaldu</persName>
-                <persName type="variant">Barwaldu, Serafin Mikolaj ^z^</persName>
-                <persName type="variant">Mikołaj Serafin z Barwałdu h. Nieczuja</persName>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q98185685"/>
                 <ptr type="gnd" target="https://d-nb.info/gnd/139138560"/>
                 <occupation ref="https://d-nb.info/gnd/4005081-6">Beamte</occupation>
